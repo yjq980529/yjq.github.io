@@ -2,4 +2,11 @@
 title: Mike Blog # 网站标题
 description: 网站描述
 timezone: Asia/Shanghai
+
 url:https://yjq.github.io
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com/yjq980529/yjq.github.io.git # 你Github 创建的仓库的地址
+  branch: master
