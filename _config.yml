@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+
 # 目录结构
 source:      .
 destination: ./_site
